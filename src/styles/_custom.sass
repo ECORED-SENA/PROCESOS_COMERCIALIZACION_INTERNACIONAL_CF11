@@ -1,0 +1,244 @@
+.curso-main-container > .container 
+    overflow-x: visible !important
+
+//Tarjetas 
+.mar--left
+  margin-left: -2.5rem
+.mar--rigth
+  margin-right: -6.5rem
+  @media (max-width: 960px)
+    margin: 0
+
+.crd--whiteGradient
+  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%)
+
+.crd--grayGradient
+  background: linear-gradient(180deg, rgba(125,149,169,1) 0%, rgba(248,251,252,1) 100%)
+
+.vh100   
+  height: 100% !important
+
+.crd--yellow
+  background-color: #F9E478
+.crd--LigthPeach
+  background-color: #FFE3C8
+.crd--gray
+  background-color: #E8E8E8
+.crd--white
+  background-color: white
+.crd--lightBlue
+  background-color: #F3F9FF
+.crd--lightPurple
+  background-color: #EEEAFD
+.crd--lightPurple01
+  background-color: #E6E3F0
+.crd--blue
+  background-color: #C7D2F9  
+.crd--purple
+  background-color: #AD99FB
+.crd--darkPurple
+  background-color: #472EA6
+.crd--mint
+  background-color: #CCFAF3
+
+.crd--blue_boton
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 0
+    transform: translateY(-50%)
+    width: 100%
+    height: 60%
+    background-color: #EEEAFD 
+  @media (max-width: 960px) 
+    &::before   
+      height: 100%
+  
+
+.clr-orange
+  color: #FD8F25
+
+.crd--borderPurple
+  position: relative
+  &::before
+    content: "" 
+    content: "" 
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: calc( 100% - 3rem )
+    border: solid 3px#BBABF5
+    border-radius: 20px
+
+.crd--borderMint
+  position: relative
+  &::before
+    content: "" 
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: calc( 100% - 3rem )
+    border: solid 3px#2CFFE2
+    border-radius: 20px
+
+.topRadious
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+.bottomRadious
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+.roundCorners
+  border-radius: 20px
+  
+.crd
+  padding: 2rem  
+.crd--1 
+  padding: 1rem
+
+.crd_Right
+  position: relative  
+  p 
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: red
+
+.avatar-crd
+  position: relative
+  padding: 2rem
+  height: 100%
+  figure, h3, p
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: calc( 100% - 100px )
+    border-radius: 20px
+
+.avatar-crd---mint
+  &::before
+    background-color: #CCFAF3
+.avatar-crd--lavanda
+  &::before
+    background-color: #EEEAFD
+.avatar-crd---peach
+  &::before
+    background-color: #FFE3C8    
+
+// Cajón 
+.box-purple
+  background-color:#E8E5F4
+  &::before
+    background-color: #BBABF5
+
+.box-mint
+  background-color:#CCFAF3
+  &::before
+    background-color:#2CFFE2
+
+// utilities 
+.hr-divider
+  width: 100%
+  height: 2px
+  margin: 1rem 0
+  background-color: #d3d1d1
+
+.dotNumber
+  padding: 0.5rem 1rem
+  border-radius: 999px
+  background-color: #FD8F25
+
+.dotNumber01
+  display: inline-block
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+  padding: 0.5rem 1rem
+  border-radius: 999px
+  background-color: #E1D9FF
+  border: 3px solid #BBABF5
+
+.dotNumber02
+  display: inline-block
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+  padding: 0.5rem 1rem
+  border-radius: 999px
+  background-color: #B3FFF4
+  border: 3px solid #2CFFE2
+
+.purpleQuote
+  font-size: 28pt
+  color: #BBABF5
+
+.peachQuote
+  font-size: 28pt
+  color: #FD8F25
+
+.mintQuote
+  font-size: 28pt
+  color: #25dfc6
+
+.imgContainer
+  max-width: 1000px
+
+
+// Background images
+.img_bg_01
+  background-image: url("../assets/curso/tema1/t1_2_01.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center center
+  @media (max-width: 960px)
+    height: 350px
+.img_bg_02
+  background-image: url("../assets/curso/tema1/t1_2_24A.png")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center center
+  @media (max-width: 960px)
+    height: 350px
+
+.img_bg_sliderJapan  
+  background-image: url("../assets/curso/tema2/slider_BG.svg")
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: bottom center
+  @media (max-width: 960px)
+    height: 350px
+
+.h500
+  height: 500px
+
+
+//Custom 
+.pasos-a__circle
+  background-color: $color-acento-contenido !important
+
+.tabs-c__content-item
+  background-color: #ebebeb
+
+// Slyder image
+.slyder-a__btn--sigt, .slyder-a__bullets__item
+  border: 1px solid #a4b6c7
+
+
+
+
+
+
+
+
