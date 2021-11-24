@@ -195,7 +195,7 @@
         .col-auto.align-self-start
           i.fas.fa-quote-left.peachQuote
         .col
-          p.text-regular.bloque-texto-f__texto.mb-3 Todas las empresas tienen un cliente externo al cual venden el bien o servicio que han elaborado. Puede ser una persona o una organización que busca en él satisfacer una necesidad concreta. Por el contrario, dentro de la misma empresa también hay clientes internos que se definen como el área de la propia empresa que recibe un bien o servicio elaborado por otra área o departamento, utilizando el bien o servicio adquirido como un input dentro del proceso productivo desarrollado internamente y necesitando de ese bien o servicio para el desarrollo de las labores encomendadas por la dirección.
+          p.text-regular.bloque-texto-f__texto.mb-3 Todas las empresas tienen un cliente externo al cual venden el bien o servicio que han elaborado. Puede ser una persona o una organización que busca en él satisfacer una necesidad concreta. Por el contrario, dentro de la misma empresa también hay clientes internos que se definen como el área de la propia empresa que recibe un bien o servicio elaborado por otra área o departamento, utilizando el bien o servicio adquirido como un #[i input] dentro del proceso productivo desarrollado internamente y necesitando de ese bien o servicio para el desarrollo de las labores encomendadas por la dirección.
           p.text-end.mb-0 #[strong (Ramírez, 2016).]
         .col-auto.align-self-end
           i.fas.fa-quote-right.peachQuote
@@ -285,6 +285,8 @@
     p Una vez definidos los factores que influyen en el cliente al decidir qué producto comprar, se hace necesario estudiar el proceso seguido por este para realizar la compra. La empresa necesita conocer dicho proceso desde sus inicios, a fin de detectar cualquier oportunidad para influir en él y hacer que la balanza se incline a favor de la propia oferta comercial. El análisis del proceso de compra del cliente más aceptado es el desarrollado por el economista Philip Kotler.
     p.mb-5 Esta es la estructura el proceso seguido por un consumidor al adquirir un bien o servicio en cinco fases o etapas:
 
+    h3.mb-5.text-center ¿Cuáles son las etapas del proceso de decisión de compra?
+
     .crd.crd--lightPurple.roundCorners
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="1").justify-content-center.align-items-start.py-4
@@ -364,7 +366,7 @@
 
     p.mb-5 En un mundo globalizado no todos las personas ni las empresas llevan a cabo la negociación de la misma manera debido a que las características demográficas, psicográficas y de comportamiento son muy distintas entre las regiones y países. 
 
-    .crd.crd--lightBlue.bottomRadious.mb-5
+    .crd.tarjeta--gray.bottomRadious.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.pt-2
           .col-lg           
@@ -390,11 +392,13 @@
 
     p De igual forma, negociar con un empresario nacional o internacional es una gran oportunidad que le abrirá las puertas a la entidad. Por lo tanto, los consejos o protocolos de negociación son una estrategia que todos los interesados en negociar deben manejar, ya que la cultura influye y es importante conocer qué costumbres maneja la contraparte. 
     p En el proceso de negociación internacional, se debe analizar la cultura de negocios presente en cada país, sus costumbres, religiones, horarios, días festivos, vestuario, obsequios, saludos, reuniones, idiomas, divisa y aspectos tradicionales. 
-    p.mb-5 A continuación, se conocerán estos aspectos en la cultura de negociación en Colombia
+    p.mb-5 A continuación, se conocerán estos aspectos en la cultura de negociación en Colombia.
+
+    h3.mb-4.text-center Cultura de negociación en Colombia
 
     .row.justify-content-center
       .col-11
-        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul").mb-5
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gray").mb-5
           .row(titulo="Horario")
             .col-lg-8.order-2.order-lg-1       
               p La semana laboral en Colombia es de lunes a viernes, algunas empresas, entidades y establecimientos trabajan los días sábados y domingos, incluso los días feriados. Por lo general, se hace una pausa de una hora para el almuerzo, sin embargo, esto también depende de la ciudad donde se encuentre.      
@@ -437,6 +441,7 @@
               figure
                 img(src='@/assets/curso/tema2/t2_7_09.svg', alt='Cupones', style="width:250px;").m-auto
 
+    p Y ahora, los aspectos de la cultura de negociación en Japón.
 
     .sliderContainer.img_bg_sliderJapan.p-4
       SlyderA(tipo="b")
@@ -526,7 +531,7 @@
         LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="Establecer nuestros clientes") Conocer sus características, gusto y deseos. Escucharlos y entender qué es lo que pretenden de nosotros. Es en esta etapa cuando debemos tener mucho cuidado al elegir a nuestra contraparte. Debemos realizar una lista completa con los nombres y el tipo de personas que vamos a contactar.
 
-          p(numero="2" titulo="Atención – Interés") En esta etapa nos basamos en los perfiles definidos en la fase de prospectar para analizar con profundidad y utilizar estrategias para despertar la atención y el interés de nuestros clientes. Es en este momento cuando áreas como la publicidad, el merchandising y el mercadeo apoyan el diseño de las estrategias efectivas. Esta actividad se apoya con pauta publicitaria, vallas, clasificados, y en general, cualquier medio escrito.
+          p(numero="2" titulo="Atención – Interés") En esta etapa nos basamos en los perfiles definidos en la fase de prospectar para analizar con profundidad y utilizar estrategias para despertar la atención y el interés de nuestros clientes. Es en este momento cuando áreas como la publicidad, el #[i merchandising] y el mercadeo apoyan el diseño de las estrategias efectivas. Esta actividad se apoya con pauta publicitaria, vallas, clasificados, y en general, cualquier medio escrito.
 
           p(numero="3" titulo="Presentar") Esta etapa requiere mucha preparación, porque en ella se define y se desarrolla la estrategia para influir en nuestro prospecto. Esta preparación no admite improvisación, los clientes tendrán una gran expectativa y partimos del supuesto que tienen interés.
 

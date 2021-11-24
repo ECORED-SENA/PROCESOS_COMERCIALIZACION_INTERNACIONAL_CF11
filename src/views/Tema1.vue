@@ -28,19 +28,19 @@
         .crd.bottomRadious.crd--lightPurple
           .row.justify-content-center.align-items-center
             .col-lg-6
-              p La mezcla de promoción, también conocida como mix de promoción, es parte fundamental de las estrategias de mercadotecnia porque la diferenciación del producto, el posicionamiento, la segmentación del mercado y el manejo de marca, entre otros, requieren de una promoción eficaz para producir resultados. Para Kotler y Amstrong (2003), autores del libro Fundamentos de marketing:
+              p La mezcla de promoción, también conocida como mix de promoción, es parte fundamental de las estrategias de mercadotecnia porque la diferenciación del producto, el posicionamiento, la segmentación del mercado y el manejo de marca, entre otros, requieren de una promoción eficaz para producir resultados. Para Kotler y Amstrong (2003), autores del libro Fundamentos de #[i marketing]:
 
               .bloque-texto-b.p-4
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  p … la mezcla de promoción o mezcla total de comunicaciones de marketing de una empresa, consiste en la combinación específica de herramientas de publicidad, promoción de ventas, relaciones públicas, ventas personales y marketing directo que la empresa utiliza para alcanzar sus objetivos de publicidad y marketing.
+                  p … la mezcla de promoción o mezcla total de comunicaciones de #[span.italic marketing] de una empresa, consiste en la combinación específica de herramientas de publicidad, promoción de ventas, relaciones públicas, ventas personales y #[span.italic marketing] directo que la empresa utiliza para alcanzar sus objetivos de publicidad y #[span.italic marketing].
                   i.fas.fa-quote-right
             .col-lg-6
               figure
                 img(src="@/assets/curso/tema1/t1_02.svg", alt="alt", style="width:275px;").m-auto
 
       .col-lg-10
-        p Del mismo modo, los requerimientos generales de las comunicaciones efectivas de marketing aplican a las empresas globales, así como a sus contrapartes locales; sin embargo, a menudo los entornos y las situaciones son más numerosas y requieren la coordinación del esfuerzo promocional. Cada vez más, las empresas optan por diversos grados de enfoques panregionales e integradores para aprovechar las similitudes en los mercados que atienden. Todos los posibles puntos de contacto entre el cliente y las marcas de la empresa se deben incorporar en el plan de comunicaciones (Czinkota y Rankainen, 2019).
+        p Del mismo modo, los requerimientos generales de las comunicaciones efectivas de #[i marketing] aplican a las empresas globales, así como a sus contrapartes locales; sin embargo, a menudo los entornos y las situaciones son más numerosas y requieren la coordinación del esfuerzo promocional. Cada vez más, las empresas optan por diversos grados de enfoques panregionales e integradores para aprovechar las similitudes en los mercados que atienden. Todos los posibles puntos de contacto entre el cliente y las marcas de la empresa se deben incorporar en el plan de comunicaciones (Czinkota y Rankainen, 2019).
 
     separador
 
@@ -118,7 +118,7 @@
 
     p.text-center.mb-5 Existen varios elementos de promoción los más usados se detallan a continuación:  
 
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul").mb-5
+    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gray").mb-5
       .row(titulo="Cupones")
         .col-lg       
           p Es otro de los elementos usados por las empresas que consiste en un documento que pueden usar los consumidores para intercambiar por descuentos cuando realicen la compra del producto.       
@@ -127,7 +127,7 @@
             img(src='@/assets/curso/tema1/t1_2_02.png', alt='Cupones', style="width:300px;")
             
 
-      div(titulo="E-commerce")
+      div(titulo="<i>E-commerce</i>")
         .row
           .col-lg       
             p Son todas las herramientas virtuales que existen para hacer la divulgación y venta de productos y servicios, entre las cuales se encuentran: página web, redes sociales, e-mail, entre otras.        
@@ -162,7 +162,7 @@
       div(titulo="Ferias y exposiciones")
         .row
           .col-lg       
-            p Es un espacio en el cual se dan a conocer y potenciar la imagen de marca, se trata de un espacio que fomenta el marketing directo y el diálogo con público e intermediarios, para aprovechar los beneficios de las ferias para empresas.        
+            p Es un espacio en el cual se dan a conocer y potenciar la imagen de marca, se trata de un espacio que fomenta el #[i marketing] directo y el diálogo con público e intermediarios, para aprovechar los beneficios de las ferias para empresas.        
           .col-auto
             figure
               img(src='@/assets/curso/tema1/t1_2_07.png', alt='Ferias y exposiciones', style="width:300px;")
@@ -182,14 +182,14 @@
         .crd.crd--blue_boton.mb-4
           .row.justify-content-center.align-items-center.position-relative
             .col-lg.mb-4.mb-lg-0          
-              p.mb-0 De este modo, es preciso profundizar en una de las tendencias más predominante, el e-commerce, considerado como lo más novedoso que ha traído internet y que es aplicable tanto entre empresas y consumidores finales. 
+              p.mb-0 De este modo, es preciso profundizar en una de las tendencias más predominante, el #[i e-commerce], considerado como lo más novedoso que ha traído internet y que es aplicable tanto entre empresas y consumidores finales. 
             .col-auto.position-relative
               figure
                 img(src='@/assets/curso/tema1/t1_2_09.svg', alt='Brochure', style="width:200px;")
 
         p.mb-5 Dicha tendencia de las tecnologías de la información empezó en Estados Unidos, cuando una serie de empresas decidió utilizar internet para desarrollar y expandir sus negocios tradicionales.
 
-        h3 E-commerce y el modelo de negocio
+        h3 #[i E-commerce] y el modelo de negocio
 
         p.mb-5 A continuación, se detalla el concepto y modelo de negocio como tal.     
 
@@ -198,8 +198,8 @@
           PasosA.color-primario.mb-5(tipo="n")
             .row
               .col-lg
-                h3 E-commerce y el modelo de negocio
-                p El e-commerce, o comercio electrónico, comprende cualquier tipo de operación comercial en la que la transacción se realiza mediante algún sistema de comunicación electrónico, por lo que no requiere soporte físico entre el comprador y el vendedor. Durante este proceso, el usuario hace una compra validada tras el pago. Un operador logístico envía ese producto posteriormente a la dirección indicada por el usuario (Ealde, 2017).
+                h3 #[i E-commerce] y el modelo de negocio
+                p El #[i e-commerce], o comercio electrónico, comprende cualquier tipo de operación comercial en la que la transacción se realiza mediante algún sistema de comunicación electrónico, por lo que no requiere soporte físico entre el comprador y el vendedor. Durante este proceso, el usuario hace una compra validada tras el pago. Un operador logístico envía ese producto posteriormente a la dirección indicada por el usuario (Ealde, 2017).
               .col-auto
                 figure
                   img(src='@/assets/curso/tema1/t1_2_10.png', alt='', style="width:295px;")
@@ -208,7 +208,7 @@
                 figure
                   img(src='@/assets/curso/tema1/t1_2_11.png', alt='', style="width:295px;")
               .col-lg
-                h3.text-start Modelos de negocios e-commerce
+                h3.text-start Modelos de negocios #[i e-commerce]
                 p.text-start Los modelos actuales de comercio electrónico por internet han obligado a los sectores tradicionales a cambiar de estrategia, porque comprometen procesos que anteriormente no se utilizaban y exigen a las empresas estar a la vanguardia en avances tecnológicos, tendencias digitales y una excelente logística y atención al cliente.
 
     .row.justify-content-center.mb-4
@@ -216,7 +216,7 @@
         .crd--1.crd--lightPurple.topRadious
           p.text-center.mb-0 Ahora, se identificarán los más reconocidos 
 
-    TabsC.color-primario.mb-5
+    TabsC.color-acento-contenido.mb-5
       .py-5(titulo="MODELO B2C <i>Business to Consumer</i>")
         .row.justify-content-center.align-items-center.px-lg-5.mx-0
           .col-md-6.mb-4.mb-md-0
@@ -292,12 +292,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        p.mb-5 Estudiados los modelos de negocios, es momento de tener en cuenta los elementos clave para una efectiva negociación por medio del comercio electrónico, los cuales se resumen en los siguientes elementos del e-commerce:
+        p.mb-5 Estudiados los modelos de negocios, es momento de tener en cuenta los elementos clave para una efectiva negociación por medio del comercio electrónico, los cuales se resumen en los siguientes elementos del #[i e-commerce]:
 
         .row.justify-content-center  
           .col-lg-10
             .crd--1.crd--darkPurple.topRadious
-              p.text-white.text-center.mb-0 #[strong Elementos del E-Commerce]
+              p.text-white.text-center.mb-0 #[strong Elementos del #[i e-commerce]]
 
       .col-lg-11.mb-5
         .crd.crd--lightBlue.bottomRadious
@@ -337,14 +337,14 @@
             .row.justify-content-center.pt-5
               .col-lg-6.mb-5.mb-lg-0
                 h3 Preguntas frecuentes (FAQ)
-                p Listado de preguntas y respuestas que surgen frecuentemente dentro del e-commerce.         
+                p Listado de preguntas y respuestas que surgen frecuentemente dentro del #[i e-commerce].         
               .col-lg-5
                 figure
                   img(src='@/assets/curso/tema1/t1_2_23.svg', alt='', style="width:350px").m-auto
 
       .col-lg-11
         h3 Páginas web
-        p Como se mencionó anteriormente, el e-commerce se lleva a cabo a través de un sitio en la web que permite la comercialización de productos de una manera fácil y rápida. 
+        p Como se mencionó anteriormente, el #[i e-commerce] se lleva a cabo a través de un sitio en la web que permite la comercialización de productos de una manera fácil y rápida. 
 
         .row.mb-5
           .col-lg-6
@@ -392,10 +392,12 @@
                 h3 Definición del diseño visual
                 p.mb-0 Una vez que se ha terminado el trabajo en la estructura, ya se cuenta con los insumos suficientes para avanzar hacia la generación del diseño visual de las pantallas del sitio, momento en el que se utilizarán todos los insumos de las etapas anteriores.
 
+        h3.mb-5 Redes sociales
+
         .row.justify-content-center.gx-0.mb-5
           .col-lg-6.crd--blue.position-relative.p-5.order-2.order-lg-1
             .crd.crd--white.mar--rigth
-              p.mb-0 Las redes sociales, en el mundo virtual, son sitios y aplicaciones que operan en niveles diversos –como el profesional, de relación, entre otros–, pero siempre permitiendo el intercambio de información entre personas y/o empresas.
+              p.mb-0 Las redes sociales, en el mundo virtual, son sitios y aplicaciones que operan en niveles diversos (como el profesional, de relación, entre otros), pero siempre permitiendo el intercambio de información entre personas y/o empresas.
 
           .col-lg-6.img_bg_02.order-1.order-lg-2
 
@@ -438,7 +440,7 @@
 
               p(numero="2" titulo="Personalización del mensaje e interacción directa con el cliente") En las redes sociales es posible tener una relación mucho más personalizada y directa con cada cliente o posible cliente, ya que puedes entrar en contacto con cada uno, ya sea para resolver problemas o para descubrir nuevas informaciones.
 
-              p(numero="3" titulo="Posibilidad de segmentación del público") Al publicar en redes sociales, es posible segmentar tus posts de acuerdo con las características de la audiencia, dirigiendo tus esfuerzos hacia aquellos rangos del público que poseen más afinidad con tu solución.
+              p(numero="3" titulo="Posibilidad de segmentación del público") Al publicar en redes sociales, es posible segmentar tus #[i posts] de acuerdo con las características de la audiencia, dirigiendo tus esfuerzos hacia aquellos rangos del público que poseen más afinidad con tu solución.
 
               p(numero="4" titulo="Conocer más a cada uno de tus clientes") Las personas comparten sus gustos, deseos y otras informaciones que pueden ser valiosas para las empresas a la hora de acercarse a su público objetivo. Mantente atento a lo que es relevante para tu audiencia para conectarse mejor a ella.
 

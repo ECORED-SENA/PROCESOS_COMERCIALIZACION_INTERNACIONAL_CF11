@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción   
 
-    p Bienvenidos al contenido de desarrollo de proveedoBienvenidos al contenido “Planeación y presentación de la propuesta comercial”, durante su lectura se ofrecen diversas temáticas con aspectos básicos y fundamentales que se deben tener en cuenta al momento de la comercialización y caracterización de los clientes. Ahora, se conocerá un poco más de este componente formativo por medio del siguiente video:res y canales de distribución, en el cual se abordarán diversas temáticas con aspectos básicos y fundamentales que se deben tener en cuenta cuando se va a realizar una adecuada selección de proveedores, de clientes y de canales de distribución locales y del exterior.
+    p Bienvenidos al contenido “Planeación y presentación de la propuesta comercial”, durante su lectura se ofrecen diversas temáticas con aspectos básicos y fundamentales que se deben tener en cuenta al momento de la comercialización y caracterización de los clientes. Ahora, se conocerá un poco más de este componente formativo por medio del siguiente video:
 
     p.mb-5 Pasemos a conocer un poco más de este componente formativo por medio del siguiente video:
 
