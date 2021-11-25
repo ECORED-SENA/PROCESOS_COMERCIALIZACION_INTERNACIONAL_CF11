@@ -5,7 +5,7 @@
 
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.text-white 1
       h1 Preparación de la oferta
 
     p.mb-5 En un mundo globalizado y competitivo, se hace necesario desarrollar productos y servicios que cumplan con las expectativas de los clientes, no solo en su estructura o composición, precio y calidad, sino también respecto a la manera que se dan a conocer los mismos, para lograr cautivarlos.

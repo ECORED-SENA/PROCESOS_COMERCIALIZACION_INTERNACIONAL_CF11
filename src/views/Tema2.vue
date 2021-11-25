@@ -5,7 +5,7 @@
 
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
+        span.text-white 2
       h1 Desarrollo de la negociación
 
     figure.mb-5
